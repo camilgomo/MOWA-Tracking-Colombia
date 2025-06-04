@@ -1,8 +1,8 @@
-Package: YourProjectName
-Title: These are the Goal of my Study (One Line, Title Case)
+Package: MOWA Tracking
+Title: Mourning Warbler migration tracks from Colombia
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Camila", "Gómez", , "camila.gomez@selva.org.co", role = c("aut", "cre"),
            comment = c(ORCID = "0000-xxxx-xxxx-xxxx"))
 Description: More detailed description of my research objective and data (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
