@@ -83,3 +83,29 @@ CB619:
   graph_set_movement:
     movement:
       type: "gs"
+CR292:
+  tag_create:
+    crop_start: "2024-04-06"
+    crop_end: "2025-02-09"
+  tag_set_map:
+    known:
+      stap_id: [1, -1] # -1 -> last stap
+      known_lon: -73.19
+      known_lat: 6.45
+  bird_create:
+    scientific_name: "Geothlypis philadelphia"
+  graph_set_movement:
+    type: "as" # Needs wind to work, use "gs" otherwise
+CR295:
+  tag_create:
+    crop_start: "2024-04-04"
+    crop_end: "2025-02-08"
+  tag_set_map:
+    known:
+      stap_id: [1, -1] # -1 -> last stap
+      known_lon: -73.19
+      known_lat: 6.45
+  bird_create:
+    scientific_name: "Geothlypis philadelphia"
+  graph_set_movement:
+    type: "as" # Needs wind to work, use "gs" otherwise
