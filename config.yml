@@ -85,7 +85,7 @@ CB619:
       type: "gs"
 CR292:
   tag_create:
-    crop_start: "2024-04-06"
+    crop_start: "2024-04-07"
     crop_end: "2025-02-09"
   tag_set_map:
     known:
