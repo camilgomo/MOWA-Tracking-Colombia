@@ -19,7 +19,7 @@ default:
     warning_flight_duration: 2 # hours
     warning_stap_duration: 6 # hours
   tag_set_map: # ?tag_set_map()
-    extent: [-116, -52, 5, 56] # [W, E, S, N]
+    extent: [-104, -52, 5, 56] # [W, E, S, N]
     scale: 5 # 1 (min) -> 1° ; 2 -> 0.5° ; 5 -> 0.25° ; 10 (max) -> 0.1°
     include_stap_id: NULL # default, take all
     include_min_duration: 0 # in hours
