@@ -98,7 +98,7 @@ CR292:
     type: "as" # Needs wind to work, use "gs" otherwise
 CR295:
   tag_create:
-    crop_start: "2024-04-04"
+    crop_start: "2024-04-05"
     crop_end: "2025-02-08"
   tag_set_map:
     known:
